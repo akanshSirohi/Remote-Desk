@@ -13,10 +13,8 @@
 
 - PC Client
 
-![Client](images/Client.jpg?raw=true "Client")
+<img src="images/Client.jpg?raw=true" alt="Client">
 
 - Android App
 
-![App1](images/App1.jpg?raw=true "App1")
-
-![App2](images/App2.jpg?raw=true "App2")
+<img src="images/App1.jpg?raw=true" alt="Client" height="600"> <img src="images/App2.jpg?raw=true" alt="Client" height="600">
