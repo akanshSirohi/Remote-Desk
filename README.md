@@ -13,7 +13,7 @@
 
 - PC Client
 
-![Client](images/client.jpg?raw=true "Client")
+![Client](images/Client.jpg?raw=true "Client")
 
 - Android App
 
