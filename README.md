@@ -9,9 +9,8 @@
 - Keypad support
 - Presentation Support
 
-<aside class="notice">
-  NOTE:- This App May Not Work If Any Type Of Virtual Machine Is Installed On Your System Or You Changed Your Network Adapter Settings.
-</aside>
+| :warning: **WARNING: This App May Not Work If Any Type Of Virtual Machine Is Installed On Your System Or You Changed Your Network Adapter Settings.** |
+| --- |
 
 > One of many ongoing projects so more features and app stability is increased in next versions
 
