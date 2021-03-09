@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_scan"
+        android:icon="@drawable/qrcode"
+        android:title="Scan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/m_conn"
+        android:title="Manual Connection" />
+    <item
+        android:id="@+id/m_discon"
+        android:icon="@drawable/times_circle"
+        android:title="Disconnect"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/m_recon"
+        android:title="ReConnect" />
+    <item
+        android:id="@+id/m_vibrate"
+        android:checkable="true"
+        android:title="Vibrate" />
+    <item
+        android:id="@+id/m_dwlCli"
+        android:title="Desktop Client" />
+</menu>
