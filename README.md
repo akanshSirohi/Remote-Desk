@@ -27,4 +27,4 @@
 ----
 ## Installation
 The app is available оn Goole's Play Market
-[![Remote Desk](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.akansh.remotedesk)
+[![Remote Desk](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)]()
