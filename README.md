@@ -23,8 +23,3 @@
 - Android App
 
 <img src="images/App1.jpg?raw=true" alt="Client" height="600"> <img src="images/App2.jpg?raw=true" alt="Client" height="600">
-
-----
-## Installation
-The app is available оn Goole's Play Market
-[![Remote Desk](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.anonic.remotedesk)
